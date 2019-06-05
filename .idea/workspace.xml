@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26487ada-4856-42bd-9fdc-f9f53d98caac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Battle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hover.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Instructions.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LangaugesNav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Loading.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayerInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayerPreview.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popular.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ReposGrid.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Results.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tooltip.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contexts/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,13 +16,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="208">
+                <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -48,98 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="560">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Nav.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="272" column="1" selection-start-line="272" selection-start-column="1" selection-end-line="272" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Instructions.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Battle.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Results.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="116" column="25" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/PlayerInput.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/PlayerPreview.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Card.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -176,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/components/Battle.jsx" />
         <option value="$PROJECT_DIR$/src/components/Results.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -233,6 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -264,15 +158,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559723306401</updated>
-      <workItem from="1559723308191" duration="13129000" />
+      <workItem from="1559723308191" duration="15465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13129000" />
+    <option name="totallyTimeSpent" value="15465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -472,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Instructions.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -513,6 +401,26 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

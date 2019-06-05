@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To start the the project, first download all the dependencies:
+
+### `npm install`
 In the project directory, you can run:
 
 ### `npm start`
@@ -11,6 +14,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+### Functionality of the project,
+
+* popular project of different languages like JavaScript, Python
+ in GitHub using feting GitHub API.
+* Based on a simple algorithm, who has more followers and following,
+ make a battle between two user and finally we can see who is the winner and looser.
+* Both of the link has dark and white mode.
+* In the Battle link, put user name in the input field, and click the
+submit button, see the output using query string, click the Reset button,
+back to the Battle link again.
+
+* If we try for a invalid link, it will show 404.
 
 ### `npm test`
 
